@@ -1,8 +1,8 @@
 {
-    "name": "infyomlabs/adminlte-templates",
-    "description": "AdminLTE templates for InfyOm Laravel Generator",
+    "name": "milind/adminlte-templates",
+    "description": "AdminLTE templates for Milind Laravel Generator",
     "keywords": [
-        "infyom",
+        "milind",
         "laravel",
         "generator",
         "adminlte",
@@ -12,8 +12,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Mitul Golakiya",
-            "email": "me@mitul.me"
+            "name": "Milind Patel",
+            "email": "ma353353@gmail.com"
         }
     ],
     "require": {
